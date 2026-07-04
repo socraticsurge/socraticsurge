@@ -2,23 +2,20 @@
 
 **The Extreme Generalist. Mr AI. Recreational Runner. Astrologer.**
 
-I scale AI businesses by day and build in public the rest of the time. PhD in communication, 18 years across academia and enterprise AI, currently leading growth at an agentic AI platform. Everything below runs locally, costs nothing to operate, and ships with its own evidence.
+Most careers pick a lane. Mine is a considered refusal to, with receipts. Eighteen years across academia and enterprise AI, a PhD in communication, currently leading growth at an agentic AI platform. The pinned repositories below are one person wearing four hats.
 
-## What I build
+## Four hats, one method
 
-| Project | What it is |
-|---|---|
-| [**atlas-pulse**](https://github.com/socraticsurge/atlas-pulse) | A privacy-first RSS reader with fully local AI via Ollama: streamed summaries, five-dimension content analysis, article chat, newsletters. Nothing leaves the machine. Built in a four-day sprint. |
-| [**telugu-calendar-utilities**](https://github.com/socraticsurge/telugu-calendar-utilities) | Telugu Panchangam as subscribable calendar feeds for 22 cities in three classical calculation systems, verified against reference sources and pinned in tests. Plus an MCP server on PyPI so AI assistants can query it. Live at [panchangam.astrochaganti.com](https://panchangam.astrochaganti.com). |
-| [**distill-locally**](https://github.com/socraticsurge/distill-locally) | A pre-specified knowledge-distillation study with a full paper: DeepSeek-R1 into Qwen3-0.6B, scored per field by a blinded judge panel, reproducible offline. The paper demoted its own headline results four times using its own instruments. That was the point. |
-| [**astrochaganti.com**](https://astrochaganti.com) | A Vedic astrology consultation platform: birth charts, dashas, and classical text interpretation, built on a Python computation sidecar and a content layer rendered from public-domain Sanskrit sources. Closed source; the [Panchangam feeds](https://panchangam.astrochaganti.com) above are its open sibling. |
+**The builder** ships products: a privacy-first RSS reader with fully local AI, from first commit to polished release in a four-day sprint.
 
-## The through-line
+**The engineer** keeps things running: Telugu Panchangam calendar feeds for 22 cities, computed in three classical systems, every rule pinned against reference almanacs, serving real subscribers on autopilot.
 
-Build the thing. Measure the thing. Publish the measurement, especially when it corrects you.
+**The scientist** distrusts his own results: a pre-specified distillation study whose instruments demoted its own headline findings four times, published anyway. That was the point.
 
-Local-first is the recurring bet: small models on your own hardware, at zero marginal cost, measured honestly against the big ones, and routed per task to wherever the evidence says they earn their keep.
+**The operator** turns the stack into a business: [astrochaganti.com](https://astrochaganti.com), a Vedic astrology consultation platform. Closed source, built on the same local-first foundations as everything above.
+
+The method is identical under every hat: build the thing, measure the thing, publish the measurement, especially when it corrects you.
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/vinaychaganti/) · [Google Scholar](https://scholar.google.com/citations?user=XTHT89AAAAAJ) · [astrochaganti.com](https://astrochaganti.com)
+[LinkedIn](https://www.linkedin.com/in/vinaychaganti/) · [Google Scholar](https://scholar.google.com/citations?user=XTHT89AAAAAJ)
